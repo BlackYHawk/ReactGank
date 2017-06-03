@@ -1,0 +1,3 @@
+rootProject.name = 'ReactGank'
+
+include ':app'
